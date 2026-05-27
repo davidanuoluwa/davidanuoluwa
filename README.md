@@ -15,7 +15,7 @@ I am a Statistics graduate with practical experience in data analysis using Exce
 - Problem Solving & Critical Thinking  
 - Communication & Team Collaboration  
 
-##Projects
+## Projects
 
 # Modelling Nigeria's Inflation Rate Using ARIMA
 
@@ -98,9 +98,7 @@ Yt = 0.786Y(t-1) - 0.592ε(t-1) + εt
 
 ---
 
-## Author
-Ezekiel David Anuoluwapo
-
+## School 
 Department of Statistics  
 Federal University of Technology Minna
 
@@ -117,7 +115,7 @@ Federal University of Technology Minna
 
 - Email: ezekieldavidanuoluwa@gmail.com
 - LinkedIn:www.linkedin.com/in/david-ezekiel
-- ## Hi there 👋
+
 
 <!--
 **davidanuoluwa/davidanuoluwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
