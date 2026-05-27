@@ -15,6 +15,10 @@ I am a Statistics graduate with practical experience in data analysis using Exce
 - Problem Solving & Critical Thinking  
 - Communication & Team Collaboration  
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,mysql,r" />
+</p>
+
 ## Projects
 
 # Modelling Nigeria's Inflation Rate Using ARIMA
