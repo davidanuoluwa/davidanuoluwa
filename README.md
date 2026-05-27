@@ -1,9 +1,6 @@
 # Hi, I'm Ezekiel David Anuoluwapo 👋
 
-📊 Data Analyst | Statistics Graduate  
-📍 Lagos, Nigeria  
-
-I am passionate about transforming raw data into actionable insights using SQL, Power BI, Excel, and statistical analysis.
+I am a Statistics graduate with practical experience in data analysis using Excel, Power BI, Tableau, SQL, and R. Transforming raw data into meaningful insights that support business decisions and improve performance.
 
 ---
 
