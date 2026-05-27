@@ -102,18 +102,39 @@ Yt = 0.786Y(t-1) - 0.592ε(t-1) + εt
 Department of Statistics  
 Federal University of Technology Minna
 
-## 🛠 Tools
+# MallPulse Istanbul Shopping Intelligence Report
 
-- Power BI
-- SQL
-- Excel
-- GitHub
+## Overview
+This project analyzes shopping mall transactions in Istanbul using SQL and Power BI to uncover customer behavior, spending patterns, and sales performance insights.
 
 ---
 
-## 📫 Connect With Me
+## Business Problem
+Retail businesses need insights into customer shopping behavior and purchasing trends to improve revenue growth, customer satisfaction, and operational efficiency.
 
-- Email: ezekieldavidanuoluwa@gmail.com
+---
+
+## Key Findings
+- Mall of Istanbul generated the highest revenue
+- Cash was the most preferred payment method
+- Female customers contributed more to total sales
+- Clothing category generated the highest revenue
+- Over 80% of revenue came from regular days
+
+---
+## Tools
+- Power BI
+- SQL
+- DAX
+- Excel
+
+
+---
+
+
+## 📫 Contact 
+
+- ezekieldavidanuoluwa@gmail.com
 - LinkedIn:www.linkedin.com/in/david-ezekiel
 
 
