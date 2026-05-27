@@ -56,7 +56,7 @@ The study examines inflation trends between 2008 and 2023 and evaluates the perf
   
 ## Tools: Microsoft word . R . Microsoft Excel
 
-[View Repository]() | [View Dashboard]() 
+[View Repository](https://github.com/davidanuoluwa/nigeria-inflation-arima-model) 
 ---
 
 
