@@ -38,7 +38,7 @@ Retail businesses need insights into customer shopping behavior and purchasing t
 
 ## Tools:Power BI . SQL . DAX . Excel
 
-[View Repository]() | [View Dashboard]() 
+[View Repository](https://github.com/davidanuoluwa/mallpulse-istanbul-shopping-analysis) | [View Dashboard](https://app.powerbi.com/links/SIPk0oLBnt?ctid=e0239e4e-d03c-45af-8d39-8e4920dfd982&pbi_source=linkShare&bookmarkGuid=05988039-a8f0-4d1c-bb10-6d364fa6ac3c) 
 ---
 
 # Modelling Nigeria's Inflation Rate Using ARIMA
