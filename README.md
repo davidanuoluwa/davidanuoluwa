@@ -1,19 +1,19 @@
 # Hi, I'm Ezekiel David Anuoluwapo 👋
 
-I am a Statistics graduate with practical experience in data analysis using Excel, Power BI, Tableau, SQL, and R. Transforming raw data into meaningful insights that support business decisions and improve performance.
+I am a Statistics graduate with practical experience in data analysis using Excel, Power BI, Tableau and SQL. Transforming raw data into meaningful insights that support business decisions and improve performance.
 
 ---
 
 ## 🚀 Skills
 
-- SQL
-- Power BI
-- Microsoft Excel
-- Data Cleaning
-- Data Visualization
-- Dashboard Design
-- Time Series Analysis
-- ARIMA Modeling
+- Data Analysis  
+- Data Cleaning  
+- SQL Queries & Database Reporting  
+- Dashboard Development (Power BI, Tableau)  
+- Excel (Pivot Tables, Charts, Functions)  
+- Forecasting & Time Series Analysis  
+- Problem Solving & Critical Thinking  
+- Communication & Team Collaboration  
 
 
 
