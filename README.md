@@ -38,7 +38,7 @@ Retail businesses need insights into customer shopping behavior and purchasing t
 
 ## Tools:Power BI . SQL . DAX . Excel
 
-[View Repository](https://github.com/davidanuoluwa/mallpulse-istanbul-shopping-analysis) | [View Dashboard](qhttps://app.powerbi.com/view?r=eyJrIjoiNTg5ODFiOTktZmEyZC00NWZhLWI0ZTUtOWM5ZWIwYjU2NmY2IiwidCI6ImI5YmM1OTJjLWQ0MDMtNDJhMi1hNDIxLWY0ZmNkN2Q5MjljYyJ9) 
+[View Repository](https://github.com/davidanuoluwa/mallpulse-istanbul-shopping-analysis) | [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTg5ODFiOTktZmEyZC00NWZhLWI0ZTUtOWM5ZWIwYjU2NmY2IiwidCI6ImI5YmM1OTJjLWQ0MDMtNDJhMi1hNDIxLWY0ZmNkN2Q5MjljYyJ9) 
 ---
 
 # Modelling Nigen Rate Using ARIMA
